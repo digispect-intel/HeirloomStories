@@ -26,6 +26,9 @@ env/
 ENV/
 .env
 .env.local
+.env.plash
+plash.env
+.plash
 .venv/
 
 # IDE files

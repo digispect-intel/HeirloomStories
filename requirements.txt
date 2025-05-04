@@ -1,0 +1,5 @@
+python-fasthtml>=0.12.14
+monsterui>=1.0.19
+httpx>=0.28.1
+python-dotenv>=1.1.0
+livekit-api>=1.0.2
